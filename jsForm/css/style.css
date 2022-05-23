@@ -1,0 +1,18 @@
+  form{
+    width: 460px;
+    height: 600px;
+   
+}
+
+.box label{
+    display: flex;
+     flex-basis: 20%;
+}
+.box input{
+    flex-basis: 80%;
+}
+
+.box {
+    display: flex;
+    
+} 
